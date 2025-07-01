@@ -1,0 +1,1 @@
+// Express server with MongoDB Atlas and Nodemailer for email alerts
